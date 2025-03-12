@@ -1,0 +1,27 @@
+{
+  "name": "stream-cast",
+  "version": "0.0.1-dev",
+  "description": "A private streaming platform built off OvenMediaEngine (OME), allowing playback from the web or any Chromecast device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealFakeAdmin/StreamCast.git"
+  },
+  "keywords": [
+    "streaming",
+    "OvenMediaEngine",
+    "OvenPlayer",
+    "screen-share",
+    "chromecast",
+    "low-latency"
+  ],
+  "author": "TheRealFakeAdmin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TheRealFakeAdmin/StreamCast/issues"
+  },
+  "homepage": "https://github.com/TheRealFakeAdmin/StreamCast#readme"
+}
